@@ -1,9 +1,9 @@
 
 var typed = new Typed(".text", {
-    strings: ["Programming" , "Cybersecurity" , "Web Development"],
-    typeSpeed:100,
-    backSpeed:100,
-    backDelay:1000,
+    strings: ["Foundation Object" , "MDF" , "People Profile" , "Business Rules" , "Workflow" , "Time Management"],
+    typeSpeed:70,
+    backSpeed:70,
+    backDelay:700,
     loop:true
 });
 
